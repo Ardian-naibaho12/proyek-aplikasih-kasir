@@ -1,0 +1,10 @@
+{
+  "name": "ScanToko - Stok, Kasir & Analisis Laba",
+  "description": "Aplikasi hitung stok barang dan kasir pintar via kamera HP tanpa alat scan khusus, pelacak pengeluaran barang habis, pencatatan laba rugi, serta grafik analisis produk terlaris dan lambat laku.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
